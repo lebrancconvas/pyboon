@@ -1,3 +1,2 @@
 def fournobletruth():
-    dukkha = True
-    
+    dukkha = False 
